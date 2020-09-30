@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="yourplace_to_give_and_get_help">Yourplace to give and get help</string>
+    <string name="app_name">NGO</string>
+    <string name="button">Button</string>
+    <string name="uniting_hopes" tools:ignore="DuplicateDefinition">uNitinG hOpes</string>
+    <string name="help_and_get_helped">Help And Get Helped</string>
+    <string name="logo">logo</string>
+    <string name="volenteer_logo">volenteer_logo</string>
+    <string name="search">Search</string>
+    <string name="events">EVENTS</string>
+    <string name="volenteer">VOLENTEER</string>
+    <string name="profile">PROFILE</string>
+    <string name="home">HOME</string>
+    <string name="helping_others_and_joining_the_world_together">Helping Others And Joining The World Together</string>
+    <string name="nav_drawer_open">Open Navigation Drawer</string>
+    <string name="nav_drawer_close">Close Navigation Drawer</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="user_icon_in_login_page">user_icon_in_login_page</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="hello">Hello there,
+        Welcome back</string>
+    <string name="user_name">User Name</string>
+    <string name="start_helping">Start Helping</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="todo">TODO</string>
+    <string name="new_user_sign_in">NEW USER? SIGN IN</string>
+    <string name="others">Others</string>
+    <string name="full_name">Full Name</string>
+    <string name="your_profile">Your Profile</string>
+</resources>

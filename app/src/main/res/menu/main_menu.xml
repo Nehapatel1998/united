@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_volenteer"
+            android:icon="@drawable/ic_volenteer"
+            android:title="@string/volenteer" />
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/ic_events"
+            android:title="@string/events" />
+    </group>
+    <group>
+        <item
+            android:title="@string/profile">
+            <menu>
+                <item
+                    android:id="@+id/nav_login"
+                    android:icon="@drawable/ic_login"
+                    android:title="@string/login"/>
+                <item
+                    android:id="@+id/nav_profile"
+                    android:icon="@drawable/ic_profile"
+                    android:title="@string/profile"/>
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/ic_logout"
+                    android:title="@string/logout"/>
+            </menu>
+        </item>
+    </group>
+    <group>
+        <item
+            android:title="@string/others">
+            <menu>
+                <item
+                    android:id="@+id/nav_Share"
+                    android:icon="@drawable/ic_share"
+                    android:title="@string/share"/>
+                <item
+                    android:id="@+id/nav_About"
+                    android:icon="@drawable/ic_about"
+                    android:title="@string/about"/>
+            </menu>
+        </item>
+    </group>
+</menu>
